@@ -1,6 +1,6 @@
 # 📌 MobiArmy Server - Java + MySQL
 
-Đây là server **MobiArmy** được viết bằng **Java** và sử dụng **MySQL** để quản lý dữ liệu. Server hỗ trợ đầy đủ các tính năng kết nối, quản lý người chơi, và xử lý dữ liệu trong game.
+👉 Đây là server **MobiArmy** được viết bằng **Java** và sử dụng **MySQL** để quản lý dữ liệu. Server hỗ trợ đầy đủ các tính năng kết nối, quản lý người chơi, và xử lý dữ liệu trong game.
 
 ## 🔹 Giới thiệu
 - **MobiArmy Server** được xây dựng nhằm tái tạo lại hệ thống server của game MobiArmy 2.
@@ -16,16 +16,16 @@
 Dưới đây là một số hình ảnh về hệ thống server đang hoạt động:
 
 ### 🔹 Giao diện quản lý server
-![Giao diện quản lý server](assets/Screenshot_2025-02-28_085342.png)
+![Giao diện quản lý server](src/Screenshot_2025-02-28_085342.png)
 
 ### 🔹 Cấu hình kết nối MySQL
-![Cấu hình MySQL](assets/Screenshot_2025-02-28_085448.png)
+![Cấu hình MySQL](src/Screenshot_2025-02-28_085448.png)
 
 ### 🔹 Xử lý bot trong game
-![Xử lý bot](assets/Screenshot_2025-02-28_085458.png)
+![Xử lý bot](src/Screenshot_2025-02-28_085458.png)
 
 ### 🔹 Server đang hoạt động
-![Server đang hoạt động](assets/Screenshot_2025-02-28_085510.png)
+![Server đang hoạt động](src/Screenshot_2025-02-28_085510.png)
 
 ## 💡 Hướng dẫn cài đặt & chạy server
 
@@ -49,6 +49,11 @@ DBManager dbManager = new DBManager("jdbc:mysql://localhost:3306/army", "root", 
 - Sau khi server chạy, client có thể kết nối bằng cách nhập địa chỉ server và port
 - Mặc định server chạy trên **port 8122**
 
+🔗 **Tải Client tại đây:** [MobiArmy2 Client](https://github.com/vantu03/MobiArmy2-Client)
+
 ---
 
-✅ Nếu bạn có bất kỳ góp ý nào, hãy mở **Issues** hoặc tạo **Pull Request** để cải thiện dự án! 🚀
+💚 Nếu bạn có bất kỳ góp ý nào, hãy mở **Issues** hoặc tạo **Pull Request** để cải thiện dự án! 🚀
+
+---
+
