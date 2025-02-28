@@ -16,16 +16,16 @@
 Dưới đây là một số hình ảnh về hệ thống server đang hoạt động:
 
 ### 🔹 Giao diện quản lý server
-![Giao diện quản lý server](src/Screenshot_2025-02-28_085342.png)
+![Giao diện quản lý server](src/anh1.png)
 
 ### 🔹 Cấu hình kết nối MySQL
-![Cấu hình MySQL](src/Screenshot_2025-02-28_085448.png)
+![Cấu hình MySQL](src/anh2.png)
 
 ### 🔹 Xử lý bot trong game
-![Xử lý bot](src/Screenshot_2025-02-28_085458.png)
+![Xử lý bot](src/anh3.png)
 
 ### 🔹 Server đang hoạt động
-![Server đang hoạt động](src/Screenshot_2025-02-28_085510.png)
+![Server đang hoạt động](src/anh4.png)
 
 ## 💡 Hướng dẫn cài đặt & chạy server
 
